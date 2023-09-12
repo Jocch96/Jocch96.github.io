@@ -1,0 +1,14 @@
+h1 {
+    color:blue;
+
+}
+Body {
+    background-color: aqua;
+}
+#p1 {
+    color:rgb(75, 18, 235);
+    background-color: chartreuse;
+    border-color: azure;
+    border-radius: 20px;
+    
+}
